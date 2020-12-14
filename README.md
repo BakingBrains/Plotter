@@ -1,2 +1,2 @@
 # Plotter
-Simple Plotter for data analytics using chart_studio, cufflinks and pandas
+Data Plotter for data analytics using chart_studio, cufflinks and pandas
